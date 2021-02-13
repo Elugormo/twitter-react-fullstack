@@ -1,0 +1,129 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "_id": "6023f04f277f22bf2f07ad89",
+      "text": "Nulla amet eiusmod occaecat irure ad veniam ipsum do adipisicing commodo aute quis consequat. Velit in ipsum quis adipisicing excepteur aliqua. Exercitation consectetur veniam fugiat eu excepteur do. Pariatur elit ad aute velit do eu reprehenderit mollit incididunt qui amet aliqua enim. Exercitation labore laboris in ut tempor occaecat.",
+      "user": {
+        "fullname": "Audrey William",
+        "username": "janet",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?1"
+      }
+    },
+    {
+      "id": 2,
+      "_id": "6023f04f9634389203e994b0",
+      "text": "Id sit fugiat quis sit. Deserunt do pariatur veniam ea nisi proident irure excepteur. Laboris labore tempor do proident ad dolore sit dolore dolor adipisicing laboris qui anim fugiat. Officia irure duis mollit pariatur fugiat anim veniam dolore elit mollit id laborum. Ipsum cupidatat do velit cillum aliqua culpa dolor ipsum officia.",
+      "user": {
+        "fullname": "Ola Wallace",
+        "username": "schmidt",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      }
+    },
+    {
+      "id": 3,
+      "_id": "6023f04fe654850089366d1a",
+      "text": "Ullamco irure nostrud voluptate sunt elit ullamco anim nostrud exercitation aliquip est deserunt. Sunt cupidatat ea laboris aute sunt laboris sit non officia quis amet qui adipisicing commodo. Lorem cillum in tempor dolor enim consectetur tempor incididunt ex velit id sint quis. Magna laboris fugiat esse est adipisicing irure. Deserunt aliqua aliqua sint proident laboris aute irure minim duis sunt ut esse nulla pariatur.",
+      "user": {
+        "fullname": "Petra Chavez",
+        "username": "doyle",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+      }
+    },
+    {
+      "id": 4,
+      "_id": "6023f04fe237413364af0f4b",
+      "text": "Sint ad reprehenderit excepteur irure laboris. Nisi ea voluptate magna incididunt adipisicing. Commodo duis laboris nulla cupidatat ex. Ex mollit enim nostrud est consectetur anim commodo consectetur. Eu qui fugiat dolor minim reprehenderit ea.",
+      "user": {
+        "fullname": "Lillie Mcclure",
+        "username": "lolita",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      }
+    },
+    {
+      "id": 5,
+      "_id": "6023f04fdf1a129ce5a15fc8",
+      "text": "Fugiat cupidatat exercitation reprehenderit proident velit proident do in esse anim anim nulla. Sint culpa officia velit eiusmod. Esse excepteur anim do exercitation voluptate. Aute in sit dolor velit Lorem non aliqua ullamco dolor. Eu Lorem commodo occaecat nostrud ex do veniam.",
+      "user": {
+        "fullname": "Flowers Kane",
+        "username": "gail",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      }
+    },
+    {
+      "_id": "wljladdsdfs",
+      "text": "asdasdads",
+      "user": {
+        "fullname": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      },
+      "id": 7
+    },
+    {
+      "_id": "xrgc9tzppb",
+      "text": "Hello world",
+      "user": {
+        "fullname": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      },
+      "id": 8
+    },
+    {
+      "_id": "3qme5wapvrt",
+      "text": "фівфів",
+      "user": {
+        "fullname": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      },
+      "id": 9
+    }
+  ],
+  "tags": [
+    {
+      "_id": "6023f04f3698adfg4113xfsdf31",
+      "name": "#HandsOffUkraine",
+      "count": 456
+    },
+    {
+      "_id": "6023f04f3698adfg41534512df31",
+      "name": "Nalavniy",
+      "count": 1451
+    },
+    {
+      "_id": "6023f04f3698adfg4113yukyf31",
+      "name": "UkraineHistory",
+      "count": 7542
+    },
+    {
+      "_id": "6023f04f3698adfg123sddf31",
+      "name": "Belorus",
+      "count": 2516
+    }
+  ],
+  "users": [
+    {
+      "fullname": "Audrey William",
+      "username": "janet",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?1"
+    },
+    {
+      "fullname": "Ola Wallace",
+      "username": "schmidt",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+    },
+    {
+      "fullname": "Petra Chavez",
+      "username": "doyle",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+    }
+  ],
+  "user": {
+    "_id": "6023f04f3698adfg4113xfa25f2",
+    "fullname": "Ivan Yanovych",
+    "username": "elugormo",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1066783021976772616/Fa5oSt_X_400x400.jpg"
+  }
+}
