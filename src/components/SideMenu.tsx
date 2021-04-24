@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { useHomeStyles } from '../pages/Home/theme'
+import { useHomeStyles } from '../pages/theme'
 import TwitterIcon from "@material-ui/icons/Twitter";
 import SearchIcon from "@material-ui/icons/Search";
 import NotificationsNoneOutlinedIcon from "@material-ui/icons/NotificationsNoneOutlined";

@@ -6,7 +6,7 @@ import LikeIcon from "@material-ui/icons/FavoriteBorderOutlined";
 import ShareIcon from "@material-ui/icons/ShareOutlined";
 
 import React from "react";
-import { useHomeStyles } from "../pages/Home/theme";
+import { useHomeStyles } from "../pages/theme";
 import { Link } from "react-router-dom";
 
 interface TweetProps {
